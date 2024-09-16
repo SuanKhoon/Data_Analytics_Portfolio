@@ -1,5 +1,5 @@
 # Power_BI Visualization 
-## ata Source and Introduction
+## Data Source and Introduction
 
 This Power BI visualization project utilized data from https://data.gov.my/ which is an open source database that houses data catalogues by the government of Malaysia and specifically the - data catalogue Transactional Records: Deaths due to COVID-19 which records death from Covid-19 related complications with various demographic and medical dimensions including COVID-19 vaccination records from 17 March 2020 to the present year 31 May 2024. The link to the dataset can be viewed through the following URL: https://data.gov.my/data-catalogue/covid_deaths_linelist. 
 
