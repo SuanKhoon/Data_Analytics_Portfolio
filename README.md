@@ -1,5 +1,6 @@
 # Power_BI Visualization 
 
+# Project 2: COVID related deaths in Malaysia from 2020 - 2024
 
 ## Data Source and Introduction
 
